@@ -1,0 +1,40 @@
+body{
+    background-color: #ecdda3;
+    margin: 0px;
+    padding: 0px;
+}
+.contact{
+    display: grid;
+    grid-template-columns: repeat(2,1fr);
+    gap: 10rem;
+    margin-bottom: 20rem;
+    width: 1000px;
+    margin: 0 auto;
+    font-family: 'Noto Sans', sans-serif;
+}
+.all h1{
+    text-align: center;
+    font-size: 3rem;
+    letter-spacing: 5px;
+    font-family: 'Noto Sans', sans-serif;
+    background-color: #ffb0c7;
+}
+.we-text{
+
+    margin: 50% auto;
+
+}
+.we-text p{
+    color: black;
+    font-size: 2rem;
+
+}
+.negrita{
+    border-radius:10px;
+}
+.back img{
+    float: left;
+    max-height: 60px;
+
+}
+
